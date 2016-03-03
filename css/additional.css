@@ -15,9 +15,9 @@
 ====================*/
 #accordion ul{
 /*box-shadow*/
--webkit-box-shadow:0 4px 10px #BDBDBD;
-   -moz-box-shadow:0 4px 10px #BDBDBD;
-        box-shadow:0 4px 10px #BDBDBD;
+-webkit-box-shadow:0 4px 10px #000000;
+   -moz-box-shadow:0 4px 10px #000000;
+        box-shadow:0 4px 10px #000000;
 /*border-radius*/
 -webkit-border-radius:5px;
    -moz-border-radius:5px;
@@ -26,11 +26,11 @@
 #accordion ul li a{
 background:#fff;
 border-bottom:1px solid #E0E0E0;
-color:#999;
+color:#000000;
 }
 .accordion{
 background:#fdfdfd;
-color:#999;
+color:#000000;
 }
 .accordion:target{
 border-top:3px solid #ff0000;
