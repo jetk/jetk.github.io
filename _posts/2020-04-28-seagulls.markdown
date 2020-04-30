@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seagulls when you expected Stormcrows"
-subtitle: "foo"
+subtitle: "Sometimes the universe nods gravely at you, sometimes it squawks"
 date:   2020-04-28 16:24:35 +0100
 categories: life
 ---
