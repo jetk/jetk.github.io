@@ -6,7 +6,6 @@ date:   2020-05-15 16:24:35 +0100
 categories: howto
 ---
 
-# 4 litres of ginger wine for 4 quid - an MVP approach
 **Read this if:** you're interested in homebrewing but don't want to spend a lot of money and time to find out if it's for you. If you're like me and hate long rambling posts before useful recipes, click here to jump down.
 
 ## Why brew anything at all?
