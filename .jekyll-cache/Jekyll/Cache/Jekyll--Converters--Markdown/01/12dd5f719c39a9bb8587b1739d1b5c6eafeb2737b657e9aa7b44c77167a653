@@ -1,0 +1,59 @@
+I"�<p><strong>Read this if:</strong> you’re interested in homebrewing but don’t want to spend a lot of money and time to find out if it’s for you. If you’re like me and hate long rambling posts before useful recipes, click here to jump down.</p>
+
+<!-- ![Simple](../../../../img/gingerwine.jpg) -->
+
+<p><img src="../../../../img/gingerwine.jpg" style="height: 30rem;" /></p>
+
+<h2 id="why-brew-anything-at-all">Why brew anything at all?</h2>
+<p>In my work as a product manager, I don’t get to make much hands-on. Sure, I write product cases, designs and specifications, but the fun of implementation goes to the brilliant engineers I work with. So in my free time I like making stuff.</p>
+
+<p>I’ve always enjoyed this particular <em>stuff</em>, and always understood the making in theory, but never taken the plunge into brewing alcohol myself. Largely, because I thought I couldn’t justify the time and the set-up costs. Everywhere I looked, I couldn’t find a wine-making kit for less than 50 quid, and most guides seemed to be very time-intensive (there’s a lot of sterilising, boiling, pitching, decanting, racking, etc.). Overall, I thought it would be too much time, money (and fouled brew) down the drain if it didn’t pan out. Plus, fermenting buckets and demijohns all over the place would probably get me murdered by my housemate.</p>
+
+<h2 id="mvp-approach-what">MVP Approach? What?</h2>
+
+<p>Being able to talk myself out of doing something doesn’t mean I can talk myself out of wasting ages speculatively reading about it. Somewhere in the third home-brewing wiki-hole I found myself down, I realised I was being a terrible product manager. Here I was, thinking about how catastrophic  and costly (emphasis mine) it would be for a 4-gallon batch to go wrong, but I was forgetting about the MVP.</p>
+
+<p>MVP, or minimum viable product, is a handy tool that lets users/customers/audiences (a.k.a. reality, rather than speculation) determine whether you should keep on going. In other words: do the thing <em>just enough</em> so you can determine whether you should continue doing the thing. This is great because if the thing doesn’t work out, you’ve burnt the minimum amount of time and money. I’m prone to my ‘duh’ moments, and in this case it was when I recognised that I obviously didn’t need to brew 4 gallons of anything using semi-pro gear and mature it for weeks to validate whether I should be brewing at all. Instead, I just needed to brew <em>some</em> booze, and do it in the fastest cheapest way possible.</p>
+
+<p>So instead, I decided to brew 4 litres. And I decided to do it in the most stripped-down, DIY, punk-rock way I could. I read a few guides, identified the biggest hurdles in them, and came up with my duct-tape solutions.</p>
+
+<h3 id="hurdle-1-complexity-of-fermentables">Hurdle 1: Complexity of fermentables</h3>
+<p>So there’s a bunch of things you can brew, and it all comes down to the quality and purity of the sugars you’re trying to turn into ethanol. The complexity (and time) of brewing using grain malt (beer) or fruit juice (wine) comes from the clown-car of sugars that make up each one. You know what’s simple and ferments quick? White sugar, 80p per kilo in my shop.</p>
+
+<h3 id="hurdle-2-flavour-of-brew">Hurdle 2: Flavour of brew</h3>
+<p>Well, nobody wants to drink sugar wine, (unless you’re reading this in 2030, and a new pandemic has <em>actually</em> crippled global booze supply chains) so what to do? Most fruits are a pain to get in large enough quantities to have any impact on flavouring. Solution: ginger. It’s dirt cheap, grows everywhere, and is delicious. Plus it has natural yeasts and shizz. A quid’s worth was enough.</p>
+
+<h3 id="hurdle-3-sanitation-of-brewing-vessels">Hurdle 3: Sanitation of brewing vessels</h3>
+<p>Apparently a big ass-pain of brewing is sanitation. You don’t get the nasty microbes out of your buckets, they come and curb-stomp your yeast and eat their food, crapping out vile and potentially dangerous compounds instead of good boozy ethanol. So why sanitise at all? I bought a 5-litre jug of water that comes conveniently sterilised (because you know, food laws or something)</p>
+
+<h3 id="hurdle-4-quality-of-brewing-water">Hurdle 4: Quality of brewing water</h3>
+<p>If you’re making beer or mead (or any other brew that’s not reliant on fruit juice being all of the liquid), then the quality of the water matters. Long story short, see solution to hurdle 3.</p>
+
+<h1 id="procedure">Procedure</h1>
+<p>So let’s keep this as simple as possible.</p>
+<h4 id="things-you-will-need">Things you will need:</h4>
+<ul>
+  <li>5 litre bottle of water</li>
+  <li>350g of ginger root</li>
+  <li>1 kg sugar</li>
+  <li>1/2 packet (5g-ish) wine yeast</li>
+  <li>1 brewing airlock with grommet</li>
+  <li>1 saucepan</li>
+  <li>1 stick blender</li>
+</ul>
+
+<h4 id="pre-brewing-steps">Pre-Brewing Steps</h4>
+<ol>
+  <li>Carefully carve a hole into the bottle-cap so you can fit the grommet and air-lock. There are ways of doing this without, like with a balloon, but airlocks cost next to nothing.</li>
+  <li>Bring 1 litre of your water to boil, with the business end of the stick blender in it. Congrats, it’s now sterile, remove and stand it up so it stays sterile. If you have a metal or silicone funnel, do the same.</li>
+  <li>Add the sugar to the pot and let it dissolve (it will) and kill the heat</li>
+  <li>Meanwhile, scrub the hell out of the ginger, we want to keep its skin for wild yeasts</li>
+  <li>Decant 1 litre of water into a container or straight into your face, we need to make room in the vessel</li>
+  <li>Decant 1 more litre of water into your sugar syrup to cool it down (so at this point, you should have 2 litres in the bottle, 2 in your saucepan, 1 stored for later drinking), and then pour some of it back into the bottle</li>
+  <li>Break up your ginger into small pieces, drop it into your cooled sugar syrup, and have at it with the stick blender.</li>
+  <li>When it’s all a fine gingery slurry, pour it back into the bottle, which should now be about 4/5 full, and throw in half a packet of yeast</li>
+  <li>Carefully swirl everything around, add water to the airlock and screw on the cap</li>
+</ol>
+
+<p>That’s basically it. Put it somewhere dark and room temperature, and in 24 hours you will be able to see and hear it fizz with yeasty activity! At these concentrations, it should take about 7-10 days to be done. At this point, I should mention that if you want to know for sure that all your sugar’s fermented into alcohol, you can get a really simple gadget called a hydrometer which basically tells you how dense a liquid is and you work out the alcohol based on the difference between starting and finishing densities. However, you can also safely assume that when your brew stops bubbling, it will be near zero sugar. And at 250g of sugar / litre, you should <a href="[http://www.brsquared.org/wine/CalcInfo/HydSugAl.htm](http://www.brsquared.org/wine/CalcInfo/HydSugAl.htm)">be able to reach</a> around 12%, making this  a delightful dry light wine.</p>
+:ET
