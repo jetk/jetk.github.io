@@ -8,8 +8,6 @@ categories: howto
 
 **Read this if:** you're interested in homebrewing but don't want to spend a lot of money and time to find out if it's for you. If you're like me and hate long rambling posts before useful recipes, [click here](#procedure) to jump down.
 
-<!-- ![Simple](../../../../img/gingerwine.jpg) -->
-
 <img src="../../../../img/gingerwine.jpg" style="height: 30rem;">
 
 ## Why brew anything at all?
